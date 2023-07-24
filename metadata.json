@@ -13,7 +13,7 @@
           "name": "cityofamericancanyon/law-xml"
         },
         {
-          "commit": "d41b4740fae900e7ac3f986b84be2dd67f5ce8aa",
+          "commit": "d60e2fd0d1d8c4ee25fc511ca2aebaaf429d5849",
           "name": "cityofamericancanyon/law-xml-codified-preview"
         }
       ]
@@ -22,7 +22,7 @@
       "html": "",
       "html-bulk": "https://github.com/cityofamericancanyon/law-html",
       "law-git": "https://github.com/cityofamericancanyon/law.git",
-      "static-assets": "https://github.com/openlawlibrary/law-static-assets",
+      "static-assets": "https://github.com/cityofamericancanyon/law-static-assets",
       "xml-bulk": "https://github.com/cityofamericancanyon/law-xml"
     },
     "contact": {
